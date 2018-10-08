@@ -1,6 +1,6 @@
 /* OS Design & UNIX Programming Assignment 2 - Question 1 - Client
    Authors: John Hebb & Matthew Souter
-   Date: Monday, October 8th, 2018
+   Date: Monday, October 8th, 2018 
    Description: Echo client program.
 */
 import java.io.*;
