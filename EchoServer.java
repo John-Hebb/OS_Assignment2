@@ -1,6 +1,6 @@
 /* Assignment 2 - Question 1 - Server
    Authors: John Hebb & Matthew Souter
-   Date: Monday, October 8th, 2018
+   Date: Monday, October 8th, 2018 
    Description: Echo server program.
 */
 
