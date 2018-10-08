@@ -1,7 +1,7 @@
 /*
 Assignment 2 Question 2
 Matthew Souter & John Hebb
-October 3, 2018
+October 3, 2018 
 Description: This program takes in an input text file and interprets it through a pipe. It then prints that out to an output file.
 */
 
